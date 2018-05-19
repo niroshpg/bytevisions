@@ -1,0 +1,10 @@
+{
+  "name": "node-todo",
+  "version": "0.0.1",
+  "description": "ByteVisions application.",
+  "main": "server.js",
+  "author": "Nirosh",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
